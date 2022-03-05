@@ -1,5 +1,8 @@
 # Computer vision - car counter
 # Written by Alex Timokhov and Ilya Golan for Tel-Hai Collage
+#*****************************************************************************************************
+#***************Both of the folders below have to be created before working with program**************
+#*****************************************************************************************************
 # Input video default location - C:/videos
 # output frames default location - C:/output
 import os
