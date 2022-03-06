@@ -1,6 +1,8 @@
 # Car-counter
 Computer vision car counting project by Ilya Golan and Alex Timokhov.
 
+Use video and video2 as samples to run . 
+
 Important notes : 
 
 1) Default video folder C:/videos (has to be created. needs to be changed in code if different folder desired)
